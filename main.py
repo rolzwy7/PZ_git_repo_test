@@ -2,7 +2,7 @@ import argparse
 
 
 def main():
-    pass
+    print("Bob")
 
 
 if __name__ == "__main__":
