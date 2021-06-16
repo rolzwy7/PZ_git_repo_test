@@ -1,8 +1,11 @@
 import argparse
 
+parser = argparse.ArgumentParser()
+
 
 def bob():
-    pass
+    print("Bob")
+    return "bob"
 
 
 def main():
