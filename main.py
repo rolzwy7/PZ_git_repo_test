@@ -1,6 +1,10 @@
 import argparse
 
 
+def bob():
+    pass
+
+
 def main():
     print("Bob")
     print("Bob2")
