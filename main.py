@@ -1,6 +1,10 @@
 import argparse
 
 
+def anna():
+    pass
+
+
 def main():
     print("Bob")
     print("Bob2")
