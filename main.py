@@ -2,7 +2,8 @@ import argparse
 
 
 def anna():
-    pass
+    print("Anna")
+    return 1
 
 
 def main():
