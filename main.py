@@ -8,6 +8,11 @@ def bob():
     return "bob"
 
 
+def anna():
+    print("Anna")
+    return 1
+
+
 def main():
     print("Bob")
     print("Bob2")
